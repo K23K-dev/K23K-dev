@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Kevin
 
-<!--
-**K23K-dev/K23K-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Kevin, a software engineer with a passion for crafting robust solutions and embracing emerging technologies. I've delved into a diverse array of technologies including JavaScript, React, TypeScript, PostgresSQL, and Python.
 
-Here are some ideas to get you started:
+Stay tuned for updates on my latest projects and contributions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--- <br><br><br><br><br> --->
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,js,react,nodejs,python,postgresql,git,html,css" />
+  </a>
+</p>
+
+<h3 align="left">Reach out to me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kevin-kou-699488223/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
