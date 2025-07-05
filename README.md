@@ -1,6 +1,6 @@
 # Hi, I’m Kevin
 
-👋 Hello there! I'm Kevin, a software engineer with a passion for crafting robust solutions and embracing emerging technologies. I've delved into a diverse array of technologies including JavaScript, React, TypeScript, PostgresSQL, and Python.
+👋 Hello there! I'm Kevin, an aspiring software engineer currently studying at Georgia Tech. I've delved into a diverse array of technologies including JavaScript, React, TypeScript, PostgresSQL, and Python.
 
 Stay tuned for updates on my latest projects and contributions!
 
